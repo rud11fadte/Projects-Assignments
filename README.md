@@ -1,6 +1,8 @@
 # 🎓 Data Science Projects – Semester 1  
 
-Welcome to my **First Semester Projects Repository!**  
+Welcome to my **First Semester Projects Repository!** 
+
+I am **Rudresh Fadate** , Roll no. **2505** , **MSc Data Science Part 1**.
 This collection showcases my **hands-on learning journey** through the **Master’s in Data Science** program at **Goa University** 🏫.  
 Each folder represents an **assignment or mini-project** that explores a key concept in **programming**, **data analysis**, or **AI application**.  
 
